@@ -7,4 +7,4 @@
 - Python: 45 min of CS50P lecture 0, covering functions, variables, arguments and parameters.
 - Admin done: AWS Student Rewards verified, GitHub Student Pack, Google Developer Program, Zoomcamp sign-up.
 - Microsoft Student Ambassadors: started the form. Student verification says my school domain isn't recognized, so I'll finish with a document upload later.
-- Hours this week: ~[X] / 12. Nothing got in the way.
+- Hours this week: 1 / 12. Nothing got in the way.
