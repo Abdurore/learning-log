@@ -8,3 +8,9 @@
 - Admin done: AWS Student Rewards verified, GitHub Student Pack, Google Developer Program, Zoomcamp sign-up.
 - Microsoft Student Ambassadors: started the form. Student verification says my school domain isn't recognized, so I'll finish with a document upload later.
 - Hours this week: 1 / 12. Nothing got in the way.
+
+## Mon 2 Nov
+- Re-solved Two Sum and Contains Duplicate from memory, no video.
+- Valid Anagram: solved with sort, O(n log n). Needed a small hint. Next: redo with a frequency count, O(n).
+- CS50P lecture 0: ~45 min watched, 15 min left.
+- Hours today: ~[X]
