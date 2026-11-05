@@ -13,4 +13,18 @@
 - Re-solved Two Sum and Contains Duplicate from memory, no video.
 - Valid Anagram: solved with sort, O(n log n). Needed a small hint. Next: redo with a frequency count, O(n).
 - CS50P lecture 0: ~45 min watched, 15 min left.
-- Hours today: ~2 
+- Hours today: ~2
+
+## Tue 3 Nov
+- No DSA today. Out all day (personal), so I skipped it and didn't double up.
+- CS50P lecture 0: finished the last 15 min.
+- Hours today: ~0.25
+
+## Wed 4 Nov
+- Valid Anagram: redid it with a frequency count.
+  Time O(n), space O(1) (only 26 letters). Sort version was O(n log n).
+- Valid Palindrome (new): solved with cleaned the string first.
+  Time O(n), space O(n).
+- CS50P Problem Set 0: all 5 problems done, checked and submitted with check50/submit50.
+- Hours today: ~2
+- Lesson: the frequency count is the same idea as a hash map"
