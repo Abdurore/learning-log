@@ -28,3 +28,14 @@
 - CS50P Problem Set 0: all 5 problems done, checked and submitted with check50/submit50.
 - Hours today: ~2
 - Lesson: the frequency count is the same idea as a hash map"
+
+## Fri 6 Nov
+- No work. Power outage (phone and laptop) plus personal reasons.
+
+## Sat 7 Nov
+- Group Anagrams: redone twice with nothing open.
+  Key = 26-letter count joined into a string. Time O(n*k), space O(n*k), k = longest word.
+  Sorted-word key would be O(n*k log k).
+- CS50P Problem Set 1: 3 of 5 done.
+- Hours today: ~2
+- Lesson: anagram problems all reduce to "same letters, same key".
