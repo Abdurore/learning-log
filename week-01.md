@@ -39,3 +39,14 @@
 - CS50P Problem Set 1: 3 of 5 done.
 - Hours today: ~2
 - Lesson: anagram problems all reduce to "same letters, same key".
+
+## Sun 8 Nov
+- Top K Frequent Elements (#347): started, not finished. Power cut stopped the session.
+- Hours today: ~[X]
+
+## Week 1 summary
+- DSA: 5 distinct problems (target 5). Group Anagrams was the hardest; solved it cold twice.
+- CS50P: Lecture 0 and Problem Set 0 done, Lecture 1 watched.
+- Hours: ~[X] of 12.
+- Missed: Tue 3 Nov (out), Fri 6 Nov (power outage).
+- Lesson: re-solving cold within 24 h works. Hints alone don't.
