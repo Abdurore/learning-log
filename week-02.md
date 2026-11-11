@@ -16,3 +16,11 @@
   Time O(n), space O(n).
 - Lesson: when order matters ("most recent first"), reach for a stack.
 - Blocker: school paperwork all day, started at 11 pm.
+
+- ## Wed 11 Nov
+- Cold re-solves of Top K Frequent Elements and Valid Parentheses.
+  Valid Parentheses: got about halfway from memory. Top K: needed many hints, so it isn't learned yet.
+- CS50P Lecture 2 (Loops): whole lecture watched on my phone.
+- Hours today: ~[X]
+- Blocker: school paperwork all day, laptop battery low tonight.
+- Lesson: re-reading a solution isn't the same as knowing it. Retry from memory first thing tomorrow.
