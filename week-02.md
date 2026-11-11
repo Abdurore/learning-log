@@ -9,3 +9,10 @@
 - Hours today: ~2
 - Blocker: power cut in the afternoon, finished at night.
 - Lesson: bucket sort by frequency is the no-heap way to do "top k".
+
+## Tue 10 Nov
+- Valid Parentheses (#20): Hint (found the "most recent unmatched opener" idea myself, needed help with the dictionary and loop structure).
+  Stack (array with push/pop) plus a dictionary of opener to closer.
+  Time O(n), space O(n).
+- Lesson: when order matters ("most recent first"), reach for a stack.
+- Blocker: school paperwork all day, started at 11 pm.
