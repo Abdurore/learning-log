@@ -24,3 +24,8 @@
 - Hours today: ~2
 - Blocker: school paperwork all day, laptop battery low tonight.
 - Lesson: re-reading a solution isn't the same as knowing it. Retry from memory first thing tomorrow.
+
+## Thu 12 Nov
+- Valid Parentheses: re-solved twice from memory, also written by hand in my jotter. Top K: still working on it, will break it into small steps tomorrow.
+- No power again, so no CS50P Problem Set 2. Used my phone for videos and a paper jotter of all 6 problems, tracing the steps by hand.
+- Hours today: ~[X]. Lesson: hand-tracing works when there's no power.
