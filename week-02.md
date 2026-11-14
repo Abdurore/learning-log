@@ -28,4 +28,28 @@
 ## Thu 12 Nov
 - Valid Parentheses: re-solved twice from memory, also written by hand in my jotter. Top K: still working on it, will break it into small steps tomorrow.
 - No power again, so no CS50P Problem Set 2. Used my phone for videos and a paper jotter of all 6 problems, tracing the steps by hand.
-- Hours today: ~[X]. Lesson: hand-tracing works when there's no power.
+- Hours today: ~2. Lesson: hand-tracing works when there's no power.
+
+## Fri 13 Nov
+- Top K Frequent Elements: worked it on paper with a tiny example ([1,1,1,2,2,3], k=2).
+  Count each number, then pick the top k by count. The sort version makes sense now.
+  The bucket version still feels memorised, so I'll test myself and redo it cold on Mon 16 Nov.
+  Label: Solution (not solved alone yet).
+- CS50P Problem Set 2: first two problems solved. Skipped the optional shorts on purpose.
+- Hours today: ~1.5
+- Lesson: shrinking a problem to a tiny example beats watching another tutorial.
+
+## Sat 14 Nov
+- Valid Parentheses: solved cold from memory, third time now.
+  Stack (array push/pop) + dictionary of opener to closer. Time O(n), space O(n).
+  Label: Hint (found the key idea myself on 10 Nov).
+- CS50P Problem Set 2: last 3 problems done, all 5 complete.
+- Hours today: ~2
+- Lesson: re-solving after a gap made it stick.
+
+- ## Week 2 summary
+- DSA: 2 problems this week (Top K, Valid Parentheses). 7 seen in total, 0 solved Alone.
+  Valid Parentheses is solid on recall. Top K still in progress.
+- CS50P: Lecture 2 and Problem Set 2 done. Chapter 1 and 2 complete.
+- Hours: ~[X] of 12. Missed days: none. Blockers: power cuts, school paperwork.
+- Next week: Top K cold, first Python re-solves, CS50P Lecture 3.
